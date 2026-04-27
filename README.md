@@ -31,9 +31,3 @@ Essa abordagem facilita manutenção, reutilização e expansão do sistema.
 📈 Conclusão
 Este projeto demonstra a aplicação prática de conceitos fundamentais de programação, com foco em organização, reutilização de código e construção de lógica escalável, servindo como base para sistemas mais complexos de e-commerce.
 
-Quer que eu deixe esse texto ainda mais parecido com um README.md estilizado, usando títulos e subtítulos em Markdown como se fosse direto para GitHub?
-- JavaScript (ES6+)
-- Programação Orientada a Objetos (POO)
-- Módulos JS
-📈 Conclusão
-Este projeto demonstra a aplicação prática de conceitos fundamentais de programação, com foco em organização, reutilização de código e construção de lógica escalável, servindo como base para sistemas mais complexos de e-commerce.
